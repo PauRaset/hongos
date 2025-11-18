@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Mushroom Catalog",
+    "recipes": "Recipes",
+    "map": "Distribution Map",
+    "language": "Language"
+  },
+  "home": {
+    "title": "Discover the World of Mushrooms",
+    "subtitle": "Your comprehensive guide to mushroom identification, recipes, and distribution",
+    "exploreButton": "Explore Mushrooms",
+    "recipesButton": "View Recipes",
+    "stats": {
+      "title": "Mushroom Species Database",
+      "edible": "Edible Species",
+      "poisonous": "Poisonous Species",
+      "medicinal": "Medicinal Species"
+    },
+    "features": {
+      "identification": {
+        "title": "Species Identification",
+        "description": "Identify mushrooms with detailed descriptions and images"
+      },
+      "recipes": {
+        "title": "Mushroom Recipes",
+        "description": "Discover delicious recipes and share your own creations"
+      },
+      "distribution": {
+        "title": "Distribution Maps",
+        "description": "Explore where different mushroom species grow"
+      }
+    },
+    "safetyNotice": "Never consume wild mushrooms without proper identification by an expert. This website is for educational purposes only. When in doubt, throw it out!"
+  },
+  "catalog": {
+    "title": "Mushroom Catalog",
+    "subtitle": "Explore and identify different mushroom species",
+    "searchPlaceholder": "Search mushrooms...",
+    "toxicity": "Toxicity",
+    "season": "Season",
+    "color": "Color",
+    "shape": "Shape",
+    "applyFilters": "Apply Filters",
+    "clearAll": "Clear All",
+    "noResults": "No mushrooms found matching your filters. Try adjusting your search criteria.",
+    "toxicityTypes": {
+      "edible": "Edible",
+      "poisonous": "Poisonous",
+      "medicinal": "Medicinal",
+      "unknown": "Unknown"
+    },
+    "seasons": {
+      "Spring": "Spring",
+      "Summer": "Summer",
+      "Fall": "Fall",
+      "Winter": "Winter"
+    },
+    "details": {
+      "overview": "Overview",
+      "characteristics": "Characteristics",
+      "distribution": "Distribution",
+      "habitat": "Habitat",
+      "season": "Season",
+      "color": "Color",
+      "shape": "Shape",
+      "size": "Size",
+      "gills": "Gills",
+      "stem": "Stem",
+      "regions": "Found in regions",
+      "mapComingSoon": "Interactive world map coming soon..."
+    }
+  },
+  "recipes": {
+    "title": "Mushroom Recipes",
+    "subtitle": "Discover delicious mushroom dishes and share your own recipes",
+    "submitRecipe": "Submit Recipe",
+    "recipeForm": {
+      "title": "Submit New Recipe",
+      "name": "Recipe Name",
+      "description": "Description",
+      "ingredients": "Ingredients (one per line)",
+      "instructions": "Instructions",
+      "mushroomType": "Mushroom Type",
+      "difficulty": "Difficulty",
+      "cookingTime": "Cooking Time (minutes)",
+      "servings": "Servings",
+      "image": "Recipe Image",
+      "uploadImage": "Upload Image",
+      "chooseFile": "Choose File",
+      "noFileChosen": "No file chosen",
+      "submit": "Submit Recipe",
+      "cancel": "Cancel",
+      "success": "Recipe submitted successfully!",
+      "addIngredient": "Add Another Ingredient",
+      "addStep": "Add Another Step",
+      "step": "Step",
+      "submittedByUser": "Submitted by user"
+    },
+    "difficulty": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "noRecipes": "No recipes found. Be the first to submit one!"
+  },
+  "map": {
+    "title": "Mushroom Distribution Map",
+    "subtitle": "Explore where different mushroom species grow around the world",
+    "filterByRegion": "Filter by Region",
+    "filterByToxicity": "Filter by Toxicity",
+    "selectRegion": "Select Region",
+    "regions": {
+      "northAmerica": "North America",
+      "europe": "Europe",
+      "asia": "Asia",
+      "southAmerica": "South America",
+      "africa": "Africa",
+      "australia": "Australia"
+    },
+    "noMushrooms": "No mushrooms found in selected region",
+    "mushroomCount": "{{count}} mushrooms found"
+  },
+  "mushrooms": {
+    "chanterelle": "Chanterelle",
+    "deathCap": "Death Cap",
+    "porcini": "Porcini",
+    "flyAgaric": "Fly Agaric",
+    "shiitake": "Shiitake",
+    "reishi": "Reishi"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "viewAll": "View All",
+    "important": "Important Safety Notice"
+  }
+}
