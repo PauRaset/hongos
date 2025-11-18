@@ -1,7 +1,6 @@
 import { Mushroom } from '@/types/mushroom';
 
 export const mushrooms: Mushroom[] = [
-const mushrooms = [
   {
     id: '1',
     name: 'Button Mushroom',
@@ -1190,4 +1189,5 @@ const mushrooms = [
       stemEs: 'Tallos cortos, a menudo fusionados entre sí'
     }
   }
+
 ];
