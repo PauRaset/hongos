@@ -181,7 +181,7 @@ export const recipes: Recipe[] = [
     difficulty: 'easy',
     cookingTime: 20,
     servings: 4,
-    image: '/images/NiscalosPlancha.jpg',
+    image: '/images/NiscalosPlancha.jpeg',
     submittedBy: 'Admin',
     createdAt: '2024-01-01T00:00:00Z'
   },
@@ -322,3 +322,4 @@ export const recipes: Recipe[] = [
     createdAt: '2024-01-01T00:00:00Z'
   }
 ];
+
