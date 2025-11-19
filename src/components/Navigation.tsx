@@ -44,7 +44,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-green-600 rounded-full flex items-center justify-center">
-              <span className="text-white font-bold text-sm">M</span>
+              <link rel="icon" href="/logo.png" type="image/png">
             </div>
             <span className="font-bold text-xl text-green-600 hidden sm:block">MushroomGuide</span>
           </Link>
@@ -74,4 +74,5 @@ export default function Navigation() {
       </div>
     </nav>
   );
+
 }
