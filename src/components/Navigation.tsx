@@ -43,10 +43,16 @@ export default function Navigation() {
       <div className="container mx-auto px-4 sm:px-6">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-green-600 rounded-full flex items-center justify-center">
-              <link rel="icon" href="/logo.png" type="image/png">
+            <div className="w-8 h-8 rounded-full overflow-hidden flex items-center justify-center">
+              <img
+                src="/logo.png"
+                alt="MushroomGuide logo"
+                className="w-full h-full object-contain"
+              />
             </div>
-            <span className="font-bold text-xl text-green-600 hidden sm:block">MushroomGuide</span>
+            <span className="font-bold text-xl text-green-600 hidden sm:block">
+              MushroomGuide
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -76,3 +82,4 @@ export default function Navigation() {
   );
 
 }
+
